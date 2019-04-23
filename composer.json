@@ -1,7 +1,7 @@
 {
-  "name": "atlassian/rest_client",
+  "name": "neimus/atlassian",
   "description": "Atlassian REST Client.",
-  "license": "proprietary",
+  "license": "MIT",
   "type": "library",
   "autoload": {
       "psr-4" : {
